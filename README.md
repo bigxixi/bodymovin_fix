@@ -32,3 +32,8 @@ I hope it helps.
 **PNG through `saveFrameToPng()`**  
 ![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/SaveFrameAsPNG-Plus/badalpha1.png)
 </br>
+## Donation:
+
+Thank you very much!  
+
+[<img src="http://bigxixi.com/donate/index.hyperesources/paypal.png" width="30%" height="30%">](https://www.paypal.me/bigxixi/)  
