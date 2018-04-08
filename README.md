@@ -1,4 +1,7 @@
 # bodymovin_fix
+
+-2018.04.08 update ->[5.1.10](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.1.10/bodymovin5.1.10en_pngfixed.zxp)   
+
 Fix the 'png dark outline' issue.  
 The fixed zxp file [Download here](https://github.com/bigxixi/bodymovin_fix/raw/master/bodymovin5.1.9_fixed.zxp)(v5.1.9). 
 Use the downloaded file to reinstall bodymovin, I recommand you use https://aescripts.com/learn/zxp-installer/  
