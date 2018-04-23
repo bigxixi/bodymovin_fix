@@ -1,5 +1,6 @@
 # bodymovin_fix
 
+-2018.04.23 update ->[5.1.12](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.1.12/bodymovin5112cn.zxp)   
 -2018.04.08 update ->[5.1.10](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.1.10/bodymovin5.1.10en_pngfixed.zxp)   
 
 Fix the 'png dark outline' issue.  
