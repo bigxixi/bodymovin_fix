@@ -1,3 +1,9 @@
+
+# This issue has been fixed since bodymovin 5.1.16, get the latest version here:  
+https://github.com/airbnb/lottie-web/tree/master/build/extension  
+
+___ ▽ ▽ ▽ in case you are using bodymovin older than 5.1.15, of just for reseach purpose ▽ ▽ ▽___
+
 # bodymovin_fix
 
 -2018.04.23 update ->[5.1.12](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.1.12/bodymovin5112cn.zxp)     
